@@ -1,6 +1,6 @@
 package hw1;
 
-public class Sum {
+public class Hw1_1 {
 	public static void main(String[]args) {
 		int x = 6, y = 12;
 		
