@@ -13,8 +13,5 @@ public class Hw1_6 {
 		System.out.println(5+'5'); //印出58，因為int整數5加char 53。
 		System.out.println(5+"5"); //印出55，資料型別為String，因為int+String。
 		
-		
-		
-		
 	}
 }
